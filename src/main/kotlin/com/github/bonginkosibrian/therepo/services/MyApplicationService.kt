@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bonginkosibrian.therepo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bonginkosibrian.therepo.MyBundle
 
 class MyApplicationService {
 
